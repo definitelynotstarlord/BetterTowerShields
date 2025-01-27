@@ -2,6 +2,7 @@
 
 ### About
 Mod to add in wackyDB files to modify both vanilla and modded tower shields into Valheim as to give them a purpose opposite bucklers and round shields.
+This work was originally completed and uploaded to Thunderstore by "FactoriaTeam" via the mod [Make Tower Shields Great Again](https://thunderstore.io/c/valheim/p/FactoriaTeam/Make_Tower_Shields_Great_Again/). Unfortunately, they are not keeping their mod up-to-date nor do they add in support for any other mods -- which we will attempt to do here.
 
 ### Configuration file meanings
 - ShieldStats:
